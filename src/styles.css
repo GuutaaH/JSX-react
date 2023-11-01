@@ -1,0 +1,34 @@
+.product-form {
+  max-width: 100%;
+  margin: 0 auto;
+  background-color: aliceblue;
+  color: blue;
+}
+
+.product-form h1 {
+  text-align: center;
+}
+
+.product-form form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.product-form label {
+  margin: 10px 0;
+}
+
+.product-form input {
+  padding: 5px;
+  margin: 5px 0;
+  width: 100%;
+}
+
+.product-form button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
